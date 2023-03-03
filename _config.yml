@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Baharan Khatami"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student in CS at UC San Diego"
   location         : "Carlsbad, US"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    :
   email            : "skhatami@ucsd.edu"
   researchgate     :
   uri              :
