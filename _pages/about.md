@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi there! Thanks for visiting my website. I am a PhD student in Computer Science at UC San Diego, advised by [prof. Babak Salimi](https://bsalimi.github.io/).
-My research interests lie in machine learning, causal inference, learning on graphs, and algorithmic fairness.
+My research interests lie in machine learning, causal inference, learning on graphs, algorithmic fairness, and generative models.
 
 News
 ======
