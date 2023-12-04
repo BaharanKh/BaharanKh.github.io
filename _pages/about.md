@@ -14,6 +14,6 @@ My research interests lie in machine learning, causal inference, learning on gra
 News
 ======
 1.  **12/4** Serving on the PC of [ECIR 2024](https://www.ecir2024.org/)
-2.  **10/15** Presenting at INFORMS annual meeting (Machine Learning aided Causal Inference Session) (https://drive.google.com/file/d/1-F3OWakb2hzUi-9lGyCOOJl7MF7DMs43/view?usp=sharing)
+2.  **10/15** Presenting at INFORMS annual meeting [Machine Learning aided Causal Inference Session](https://drive.google.com/file/d/1-F3OWakb2hzUi-9lGyCOOJl7MF7DMs43/view?usp=sharing)
 3. **04/23** Attending the IEEE International Conference on Data Engineering [ICDE 2023](https://icde2023.ics.uci.edu/) 
 4. **03/23** Serving on the PC of [FAccT 2023](https://facctconference.org/index.html)
