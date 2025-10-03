@@ -14,7 +14,7 @@ My research focuses on trustworthy machine learning, with an emphasis on data de
 News
 ======
 1. **09/25** I advanced to PhD candidacy on summer 2025!
-2. **01/25** 2 of our papers got accepted in AISTATS 2025.
+2. **01/25** 2 of our papers got accepted in AISTATS 2025! 
 4. **02/24** Serving on the PC of [FAccT 2024](https://facctconference.org/2024/)
 5.  **12/4** Serving on the PC of [ECIR 2024](https://www.ecir2024.org/)
 6.  **10/15** Presenting at INFORMS annual meeting [Machine Learning aided Causal Inference Session](https://drive.google.com/file/d/1-F3OWakb2hzUi-9lGyCOOJl7MF7DMs43/view?usp=sharing)
